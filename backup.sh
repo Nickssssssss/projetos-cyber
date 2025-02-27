@@ -89,4 +89,4 @@ main
 
 #Ou então gpg --decrypt --passphrase YOUR_PASSWORD backup_20-01-2025_17-34-58.tar.gz.gpg > backup_20-01-2025_17-34-58.tar.gz
 #e em seguida tar -tf backup_20-01-2025_17-34-58.tar.gz para verificar o conteúdo do arquivo/diretório. 
-#Porém dessa forma fca armazenado no sistema o arquivo/diretório descriptografado.
+#Porém dessa forma fica armazenado no sistema o arquivo/diretório descriptografado.
